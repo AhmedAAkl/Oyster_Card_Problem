@@ -41,5 +41,5 @@ For the purposes of this test use the following data:
 | Any three zones | £3.20 |
 | Any bus journey | £1.80 |
 
-
+The maximum possible fare is therefore £3.20.
 
